@@ -3,7 +3,6 @@ package com.example.creacuadricula
 import android.adservices.topics.Topic
 import android.os.ext.SdkExtensions
 import androidx.annotation.RequiresExtension
-import com.example.courses.R
 
 object DataSource {
     @RequiresExtension(extension = SdkExtensions.AD_SERVICES, version = 4)
